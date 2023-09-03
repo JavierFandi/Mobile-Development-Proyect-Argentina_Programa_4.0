@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Prueba</string>
+    <string name="text_2">Text 2</string>
+    <string name="text_1">Text 1</string>
+    <string name="complete">Write a text…</string>
+    <string name="compare">Compare</string>
+
 </resources>
