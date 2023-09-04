@@ -88,7 +88,6 @@
         android:text="@string/compare"
         android:fontFamily="@font/tangerine_bold"
         android:textSize="30sp"
-        app:iconTint="#100F0F"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
