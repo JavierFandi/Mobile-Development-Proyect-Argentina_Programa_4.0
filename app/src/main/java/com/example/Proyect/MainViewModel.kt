@@ -11,14 +11,14 @@ class MainViewModel : ViewModel()
 
     fun result(text1: String)
     {
-        if(text1=="Los textos son iguales")
+        if(text1=="The texts are the same")
         {
-            val text = "Los textos son iguales"
+            val text = "The texts are the same"
             updateResult(text)
         }
         else
         {
-            val text = "Los textos son distintos"
+            val text = "The texts are different"
             updateResult(text)
         }
     }

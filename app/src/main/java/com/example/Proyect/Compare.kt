@@ -13,11 +13,11 @@ class Compare {
 
         result = if (boolean)
         {
-            "Los textos son distintos"
+            "The texts are different"
         }
         else
         {
-            "Los textos son iguales"
+            "The texts are the same"
         }
 
         return result
